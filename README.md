@@ -32,7 +32,7 @@ Age: 20<br>
 Grade: A<br>
 <br>
 <br>
-<h2>2. COPY CONSTRUCTOR</h2>
+<h2>3. COPY CONSTRUCTOR</h2>
 <br>
 <b>Example. Define a Rectangle class with attributes length and width. Implement a parameterized constructor to initialize the length and width and a method calculateArea() that returns the area. Additionally, implement a copy constructor to create a new Rectangle object by copying an existing one. Write a method displayArea() to print the area of the rectangle.</b>
 <br>
