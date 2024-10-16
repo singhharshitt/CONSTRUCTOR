@@ -6,7 +6,7 @@ class Box{
     int width;
     int height;
     public:
-    //default constructor--
+    //default constructor-
     Box(){
         length= 10;
         width= 20;
