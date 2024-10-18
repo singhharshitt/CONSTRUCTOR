@@ -41,7 +41,15 @@ Grade: A<br>
 <h2>4.CONSTRUCTOR OVERLOADING</h2>
 <br>
 <br>
+
+
+
 <b>Design a class Box that represents a 3D box with attributes for its dimensions: length, width, and height. Your task is to implement constructor overloading to initialize the dimensions of the box in different ways.</b>
+
+
+
+<h4>NOTE:-</h4>
+<b>If Parameterized constructor is created in the base than it is mandatory for derived to have parametrized constructor because we will not be able to access the constructor as it is defined in base class but not in derived as we are uing the object of deriver class only</b>
 
 
 
